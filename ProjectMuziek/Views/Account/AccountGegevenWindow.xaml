@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="ProjectMuziek.Views.Account.AccountGegevenWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProjectMuziek.Views.Account"
+             mc:Ignorable="d" 
+             d:DesignHeight="634" d:DesignWidth="1280">
+    <Grid>
+        <Grid Width="1280" HorizontalAlignment="Left">
+
+            <Grid VerticalAlignment="Top" Margin="0,40,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="1" Margin=" 50,0,50,0" Background="Brown" BorderThickness="0" Command="{Binding MijnBeluisterde}" >Mijn Beluisterde liedjes</Button>
+
+            </Grid>
+            <Grid Height="420"   Margin="0,20,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Content="Mijn gegevens" Grid.Row="0" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" FontSize="15" FontWeight="Bold" Margin="50 10" BorderThickness="0"></Label>
+
+                <Label Content="Voornaam" FontSize="15" Grid.Column="0" Grid.Row="2"  Margin="300 10 0 5"></Label>
+                <TextBox Text="{Binding Gebruiker.Voornaam}"  Grid.Row="2" Grid.Column="1" FontSize="15" Margin="150 10 100 5" Background="LightGray"></TextBox>
+                <Label Content="E-mail" FontSize="15"  Grid.Column="0" Grid.Row="3" Margin="300 10 0 10"></Label>
+                <TextBox Text="{Binding Gebruiker.Email}"  Grid.Row="3" Grid.Column="1" FontSize="15" Margin="150 10 100 5" Background="LightGray"></TextBox>
+
+                <Button Command="{Binding SaveChanges}" Content="Wijzegingen opslaan" Grid.Column="1" Grid.Row="6" Margin="150 0 100 0" Background="Brown" BorderThickness="0"></Button>
+                <Button Command="{Binding DeleteUser}" Content="Account verwijderen" Grid.Column="1" Grid.Row="7" Margin="150 0 100 0" Background="Red" BorderThickness="0"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

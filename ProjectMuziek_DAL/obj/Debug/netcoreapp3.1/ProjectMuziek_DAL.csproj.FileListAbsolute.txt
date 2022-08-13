@@ -1,0 +1,10 @@
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\bin\Debug\netcoreapp3.1\ProjectMuziek_DAL.deps.json
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\bin\Debug\netcoreapp3.1\ProjectMuziek_DAL.dll
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\bin\Debug\netcoreapp3.1\ProjectMuziek_DAL.pdb
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.AssemblyInfoInputs.cache
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.AssemblyInfo.cs
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.dll
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.pdb
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_DAL\obj\Debug\netcoreapp3.1\ProjectMuziek_DAL.csproj.AssemblyReference.cache

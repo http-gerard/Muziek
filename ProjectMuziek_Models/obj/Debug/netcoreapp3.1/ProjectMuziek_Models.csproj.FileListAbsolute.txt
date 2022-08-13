@@ -1,0 +1,10 @@
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.AssemblyInfoInputs.cache
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.AssemblyInfo.cs
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\bin\Debug\netcoreapp3.1\ProjectMuziek_Models.deps.json
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\bin\Debug\netcoreapp3.1\ProjectMuziek_Models.dll
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\bin\Debug\netcoreapp3.1\ProjectMuziek_Models.pdb
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.dll
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.pdb
+C:\Users\gerar\OneDrive\Bureaublad\Gevorderde\ProjectMuziek\ProjectMuziek_Models\obj\Debug\netcoreapp3.1\ProjectMuziek_Models.csproj.AssemblyReference.cache
